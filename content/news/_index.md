@@ -4,6 +4,8 @@ title: "News"
 
 ## Updates
 
+updated at June, 2026
+
 
 **2026**
 - Our paper will be presented at the 2026 AEJMC annual conference!
