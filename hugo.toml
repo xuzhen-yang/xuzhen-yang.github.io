@@ -31,3 +31,7 @@ theme = "academic"
     name = "CV"
     url = "/cv.pdf"
     weight = 4
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
