@@ -20,11 +20,11 @@ updated at June, 2026
   - *The ICPSR Summer Program established the Opportunity Scholarship in 2018 with support from the University of Michigan Institute for Social Research and the University of Michigan Office of the Provost to promote quantitative training among graduate students from underrepresented groups.*
 
 **2025**
-- Our paper presented at the 2026 ICA annual conference!
+- Our paper presented at the 2025 ICA annual conference!
   - *Yang, T. & Yang, X. (2025). A Synergy Between Platform and Mobile News Traffic? Evidence from Four Societies.* 
 
 **2024**
-- I kicked off Ph.D. journey at the Michigan State University. Go Green!
+- I kicked off my Ph.D. journey at the Michigan State University. Go Green!
 
 - Our paper presented at the 2024 ICA annual conference!
   - *Yang, T., Yang, X., Peng, Y. & Mukerjee, S., (2024). Partisan, Unreliable, Digital-Born, and Mass-Oriented Media are More Likely to Thrive on Social Media: A Comparison between Twitter, Facebook, YouTube, and the Web.* 
