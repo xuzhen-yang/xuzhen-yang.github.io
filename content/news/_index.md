@@ -28,5 +28,5 @@ updated at June, 2026
 
 - Our paper presented at the 2024 ICA annual conference!
   - *Yang, T., Yang, X., Peng, Y. & Mukerjee, S., (2024). Partisan, Unreliable, Digital-Born, and Mass-Oriented Media are More Likely to Thrive on Social Media: A Comparison between Twitter, Facebook, YouTube, and the Web.* 
-  - Top Paper Award at Political Communication Division
+    - Top Paper Award at Political Communication Division
 
