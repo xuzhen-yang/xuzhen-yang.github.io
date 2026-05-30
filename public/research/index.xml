@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Xuzhen Yang</title>
+    <link>http://localhost:52487/research/</link>
+    <description>Recent content in Research on Xuzhen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:52487/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are partisan, unreliable, digital-born, and mass-oriented media more likely to thrive on social media? Comparing four information ecosystems</title>
+      <link>http://localhost:52487/research/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52487/research/paper1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recalibrating the compass: integrating large language models into classical research methods</title>
+      <link>http://localhost:52487/research/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52487/research/paper2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+baseURL = "https://xuzhen-yang.github.io/"
+languageCode = "en-us"
+title = "Xuzhen Yang"
+theme = "academic"
+
+[params]
+  name = "Xuzhen Yang"
+  title = "Ph.D. student in Communication"
+  institution = "Michigan State University"
+  email = "yangxuzh@msu.edu"
+  twitter = "https://x.com/yangxuzhen27"
+  github = "https://github.com/xuzhen-yang"
+  scholar = "https://scholar.google.com/citations?user=u5nPZF0AAAAJ&hl=en&oi=ao"
+  linkedin = "https://www.linkedin.com/in/xuzhen-yang-a6b1ba235/"
+  description = "Personal academic website of Xuzhen'Jen'"
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+  [[menu.main]]
+    name = "CV"
+    url = "/cv.pdf"
+    weight = 4

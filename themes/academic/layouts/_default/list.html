@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="page-container">
+  <h1 class="page-title">{{ .Title }}</h1>
+  <div class="page-content">
+    {{ .Content }}
+    {{ range .Pages }}
+    <div class="list-item">
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ with .Params.authors }}<p class="authors">{{ . }}</p>{{ end }}
+      {{ with .Params.venue }}<p class="venue"><em>{{ . }}</em>{{ with $.Params.year }}, {{ . }}{{ end }}</p>{{ end }}
+      {{ with .Params.links }}
+      <div class="paper-links">
+        {{ range . }}
+        <a href="{{ .url }}" class="btn" target="_blank">{{ .name }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

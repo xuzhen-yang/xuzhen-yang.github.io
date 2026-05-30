@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="home-container">
+  <aside class="sidebar">
+    <img src="{{ "/images/profile.jpg" | relURL }}" alt="{{ .Site.Params.name }}" class="profile-photo">
+    <h2 class="sidebar-name">{{ .Site.Params.name }}</h2>
+    <p class="sidebar-title">{{ .Site.Params.title }}</p>
+    <p class="sidebar-institution">{{ .Site.Params.institution }}</p>
+    <div class="social-links">
+      {{ with .Site.Params.email }}
+      <a href="mailto:{{ . }}" aria-label="Email"><i class="fas fa-envelope"></i></a>
+      {{ end }}
+      {{ with .Site.Params.twitter }}
+      <a href="{{ . }}" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+      {{ end }}
+      {{ with .Site.Params.github }}
+      <a href="{{ . }}" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      {{ end }}
+      {{ with .Site.Params.scholar }}
+      <a href="{{ . }}" target="_blank" aria-label="Google Scholar"><i class="fab fa-google"></i></a>
+      {{ end }}
+      {{ with .Site.Params.linkedin }}
+      <a href="{{ . }}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      {{ end }}
+    </div>
+  </aside>
+  <article class="bio-content">
+    {{ .Content }}
+  </article>
+</div>
+{{ end }}
