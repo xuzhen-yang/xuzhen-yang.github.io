@@ -5,7 +5,7 @@ title: "Home"
 ## Biography  
 
 
-Hello 😊! I am Xuzhen "Jen" Yang, a second-year Ph.D. student in Communication at Michigan State University. My research sits at **platformization, political communication, and AI-driven social simulation**. Methodologically, I am particularly interested in the potential of LLM-based simulation to advance information integrity and democratic participation.  try
+Hello 😊! I am Xuzhen "Jen" Yang, a second-year Ph.D. student in Communication at Michigan State University. My research sits at **platformization, political communication, and AI-driven social simulation**. Methodologically, I am particularly interested in the potential of LLM-based simulation to advance information integrity and democratic participation. 
 
 <br><br><br><br><br><br><br><br>
 
@@ -27,7 +27,7 @@ My recent work focuses on developing LLM-based social agents to model human beha
 ## Directory  
 
 
-For more about my research, please visit the **[Research](/research/)** page. For the latest updates, see the **[News](/news/)** page. My full CV ~~can~~ will soon be found **[here](/cv/)**.
+For more about my research, please visit the **[Research](/research/)** page. For the latest updates, see the **[News](/news/)** page. My full CV ~~can~~ will soon be found **[CV](/cv/)**.
 
 
 <p style="margin-top: 4em;"></p>
